@@ -3,9 +3,9 @@
 
 Here's an example how the data looks:
 
-![](doc/img/fashion-mnist-sprite.png)
+![](https://github.com/zalandoresearch/fashion-mnist/blob/master/doc/img/fashion-mnist-sprite.png)
 
-<img src="doc/img/embedding.gif" width="100%">
+<img src="https://github.com/zalandoresearch/fashion-mnist/blob/master/doc/img/embedding.gif" width="100%">
 
 
 <h3>DATASET</h3>
