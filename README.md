@@ -9,7 +9,7 @@ Here's an example how the data looks:
 
 
 <h3>DATASET</h3>
-<p>link<u href="https://github.com/zalandoresearch/fashion-mnist#contributing">here</u></p>
+<p href="https://github.com/zalandoresearch/fashion-mnist#contributing">here</p>
 
 
 ### Labels
