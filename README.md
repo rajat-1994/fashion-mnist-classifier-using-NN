@@ -27,3 +27,10 @@ Each training and test example is assigned to one of the following labels:
 | 7 | Sneaker |
 | 8 | Bag |
 | 9 | Ankle boot |
+
+<h3>OUTPUT</h3>
+<ul>
+<li><p>ARCHITECTURE : linear->relu->linear->relu->linear->relu->linear->softmax<p></li>
+<li><p>Train Accuracy : 99.98 %</p></li>
+<li><p>Test Accuracy : 87.02 % </p></li>
+</ul>
